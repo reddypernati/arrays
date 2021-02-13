@@ -1,4 +1,4 @@
-package arrays;
+
 
 /* Java Program to find sum of elements in a given array  */
 public class SumInArray 
